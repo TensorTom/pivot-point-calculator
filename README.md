@@ -6,6 +6,10 @@ Getpivots can be used for identifying areas of support and resistance for the ne
 
 ![getpivots-screencap1](https://cloud.githubusercontent.com/assets/12847315/11052885/6ae05404-872a-11e5-91c1-13bfb17f50d2.jpg)
 
+Todo
+-------
+This fork will be fixed by incorporating the CCXT library.
+
 Install
 -------
 
